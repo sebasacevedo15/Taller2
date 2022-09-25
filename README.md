@@ -43,4 +43,6 @@ Al analizar la distribución de transacciones por género se encuentra que no ha
 
  
 Cuando se analiza la participación de compras por los diferentes canales se observa que las transacciones en tienda son las que predominan, aunque las transacciones Online también tienen una participación importante en el total de ventas por lo cual sería importante explorar estrategias que incrementen la cantidad de transacciones Online. 
+
+
 Nota: Para la creación de gráficos nos apoyamos en la herramienta Tableau y las incorporamos en cada una de las preguntas.
